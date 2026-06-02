@@ -27,10 +27,3 @@ Build Goals
  Configure a minimal, purpose-built Linux environment
  Integrate a battery management system for field use
  Set up a clean, reproducible system image (documented and version-controlled)
-
-Portfolio & Documentation
-
- Document every major build and config decision in this repo
- Write up lessons learned and how problems were solved
- Produce a complete bill of materials (BOM) and wiring diagram
- Make this repo useful to someone else building something similar
