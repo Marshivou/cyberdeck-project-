@@ -28,4 +28,4 @@ Integrate a battery management system for field use
 Set up a clean, reproducible system image (documented and version-controlled)
 
 ## Docs
-[Hardware Section](cyberdeck-project/Hardware Section/md)
+[Hardware Section] (cyberdeck-project/Hardware Section/md)
