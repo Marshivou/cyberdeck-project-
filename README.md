@@ -15,20 +15,22 @@ The cyberdeck combines:
 - Documentation — maintaining clean, readable records of every build decision and lesson learned
 
 ## Goals
-Technical Skills
 
-Build confidence in Linux administration (Debian/Arch-based)
-Understand hardware integration — GPIO, serial interfaces, custom peripherals
-Practice networking fundamentals and tools (Wireshark, nmap, netcat, etc.)
-Develop a working knowledge of offensive and defensive cybersecurity techniques
-Use the build as a platform for CTF competitions and security labs
+Technical Skills:
+
+- Build confidence in Linux administration (Debian/Arch-based)
+- Understand hardware integration — GPIO, serial interfaces, custom peripherals
+- Practice networking fundamentals and tools (Wireshark, nmap, netcat, etc.)
+- Develop a working knowledge of offensive and defensive cybersecurity techniques
+- Use the build as a platform for CTF competitions and security labs
 
 ## Build Goals
 
-Design and assemble a portable, ruggedized chassis
-Configure a minimal, purpose-built Linux environment
-Integrate a battery management system for field use
-Set up a clean, reproducible system image (documented and version-controlled)
+- Design and assemble a portable, ruggedized chassis
+- Configure a minimal, purpose-built Linux environment
+- Integrate a battery management system for field use
+- Set up a clean, reproducible system image (documented and version-controlled)
+
 
 ## Docs
 
