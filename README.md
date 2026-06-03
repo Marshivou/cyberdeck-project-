@@ -3,7 +3,8 @@ A portable Linux workstation built for learning networking, Linux administration
 
 ## Overview
 
-This project is about building a custom cyberdeck from the ground up — both the hardware and the software stack. The goal isn't just to end up with a cool piece of kit, but to use the build process itself as a hands-on learning environment for real IT and cybersecurity skills.
+This project is about building a custom cyberdeck from the ground up — both the hardware and the software stack. 
+The goal isn't just to end up with a cool piece of kit, but to use the build process itself as a hands-on learning environment for real IT and cybersecurity skills.
 
 The cyberdeck combines:
 
